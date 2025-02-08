@@ -24,3 +24,25 @@ hs_err_pid*
 replay_pid*
 
 /.idea/
+
+*.iml
+
+*/.idea/
+
+/out/
+
+/log/
+
+/mall-auth-server/target/
+
+/mall-common/target/
+
+/mall-coupon/target/
+/mall-gateway/target/
+
+/mall-member/target/
+
+/mall-order/target/
+
+/mall-product/target/
+
