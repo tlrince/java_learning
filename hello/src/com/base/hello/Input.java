@@ -1,4 +1,4 @@
-package com.itheima.hello;
+package com.base.hello;
 
 import java.util.Scanner;
 
